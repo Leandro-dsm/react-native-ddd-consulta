@@ -118,15 +118,6 @@ Resposta de erro (404): DDD não encontrado
 
 Documentação oficial: Brasil API - DDD
 
-Considerações sobre a Rede da Faculdade
-Se você estiver executando o aplicativo dentro da rede da faculdade (ou outra rede com firewall/proxy), a requisição para a API externa pode falhar (erro "Network request failed"). Nesse caso, recomenda-se:
-
-Testar com dados móveis (4G/5G) no celular físico usando npx expo start --tunnel
-
-Ou utilizar a internet pessoal (hotspot) para desenvolvimento
-
-O código já possui fallback de timeout e tentativas de retry, mas o ideal é uma conexão sem bloqueios.
-
 Autor
 Leandro
 Estudante de Desenvolvimento de Software Multiplataforma - Fatec
