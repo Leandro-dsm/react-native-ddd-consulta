@@ -16,7 +16,7 @@ Aplicativo mobile para consulta de municípios por código de DDD (Discagem Dire
 - Indicador de carregamento durante a requisição
 - Tratamento de erros (DDD inválido, falha de rede, API indisponível)
 - Layout responsivo e otimizado para navegadores e dispositivos móveis
-- Design institucional com as cores da Fatec (vermelho, preto e branco)
+- Design com as cores (vermelho, preto e branco)
 - Animações suaves ao carregar resultados
 - Ícones vetoriais profissionais
 
