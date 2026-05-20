@@ -1,12 +1,12 @@
 # Consulta DDD - React Native + TypeScript
 
-Aplicativo mobile para consulta de municípios por código de DDD (Discagem Direta à Distância). Desenvolvido com React Native (Expo) e TypeScript, consumindo a Brasil API. Projeto acadêmico para a disciplina de Programação para Dispositivos Móveis (PDMI).
-
 <h2 align="center">📱 Preview do Projeto</h2>
 
 <p align="center">
   <img src="./assets/consulta-ddd.png" alt="Consulta de DDD" width="300">
 </p>
+
+Aplicativo mobile para consulta de municípios por código de DDD (Discagem Direta à Distância). Desenvolvido com React Native (Expo) e TypeScript, consumindo a Brasil API. Projeto acadêmico para a disciplina de Programação para Dispositivos Móveis (PDMI).
 
 ## Funcionalidades
 
