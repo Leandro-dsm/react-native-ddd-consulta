@@ -1,6 +1,6 @@
 # Consulta DDD - React Native + TypeScript
 
-<h2 align="center">📱 Preview do Projeto</h2>
+<h2 align="center">Preview do Projeto</h2>
 
 <p align="center">
   <img src="./assets/consulta-ddd.png" alt="Consulta de DDD" width="300">
