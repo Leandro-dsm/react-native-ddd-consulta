@@ -59,7 +59,23 @@ Aguarde o carregamento e visualize o estado e a lista de cidades em ordem alfab�
 
 Estrutura do Projeto
 
-<pre> ```text react-native-ddd-consulta/ ├── src/ │ ├── screens/ │ │ └── DddScreen.tsx │ ├── services/ │ │ └── api.ts │ └── types/ │ └── dddTypes.ts ├── App.tsx ├── package.json ├── tsconfig.json ├── .gitignore └── README.md ``` </pre>
+## Estrutura do Projeto
+
+```text
+react-native-ddd-consulta/
+├── src/
+│   ├── screens/
+│   │   └── DddScreen.tsx
+│   ├── services/
+│   │   └── api.ts
+│   ├── components/
+│   ├── hooks/
+│   ├── styles/
+│   └── utils/
+├── assets/
+├── package.json
+└── README.md
+```
 
 Observações Técnicas
 Gerenciamento de estado: Foram utilizados os hooks useState para controlar o valor do input (ddd), o payload retornado pela API (data) e o estado de carregamento (loading). O hook useEffect é utilizado para limpar o resultado da consulta anterior enquanto o usuário digita um novo DDD.
